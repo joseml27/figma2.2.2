@@ -38,7 +38,7 @@
     font-size: 1.2rem;
     color: var(--gris3);
     margin-bottom: 3.5rem;
-
+    margin-top: 2rem;
     display: flex;
     flex-direction: column;
 }
